@@ -1,4 +1,4 @@
-gunicorn
+waitress=2.1.2
 Flask==2.2.3
 pandas==1.3.5
 patsy==0.5.3
